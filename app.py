@@ -6,8 +6,8 @@ from snowflake.snowpark import Session
 # just account name and user/pwd
 connection_param = {
     "ACCOUNT":"TN65519",
-    "USER":"snowpark_user",
-    "PASSWORD":"snowpark@12E4"
+    "USER":"RAKESHARMA786",
+    "PASSWORD":"Rakesharma@786"
 }
 # print connection params
 print("The Parameter :",connection_param)
